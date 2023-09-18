@@ -3,8 +3,8 @@ import List_PricingCard3 from "./List_PricingCard3";
 
 function PricingCard3() {
   return (
-    <div className="flex flex-col p-6 mx-auto max-w-lg text-center text-slate-400 bg-gradient-to-b from-[#E5383B] to-[#660708] to-[#161A1D] rounded-lg border  border-black shadow dark:border-gray-600 xl:p-8 dark:bg-gray-900 dark:text-white">
-      <h3 className="mb-4 text-3xl text-sky-800 font-bold">Enterprise</h3>
+    <div className="flex flex-col p-6 mx-auto max-w-lg text-center text-slate-400 bg-gradient-to-b from-[#E5383B] via-[#660708] to-[#161A1D] rounded-lg border  border-black shadow dark:border-gray-600 xl:p-8 dark:bg-gray-900 dark:text-white">
+      <h3 className="mb-4 text-3xl text-sky-400 font-bold">Enterprise</h3>
       <p className="font-semibold text-white sm:text-lg dark:text-white">
         Perfect for a large scale company or an Enterprise for seemless calling
         solutions

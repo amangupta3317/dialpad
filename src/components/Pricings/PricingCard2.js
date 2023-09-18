@@ -3,8 +3,8 @@ import List_PricingCard2 from "./List_PricingCard2";
 
 function PricingCard2() {
   return (
-    <div className="flex flex-col p-6  mx-auto max-w-lg text-center  text-slate-400 bg-gradient-to-b from-[#3a0ca3] to-[#7209b7] to-[#4361ee] to-[#f72585] to-[#4cc9f0] rounded-lg border border-black shadow dark:border-gray-600 xl:p-8 dark:bg-gray-900 dark:text-white">
-      <h3 className="mb-4 text-3xl text-lime-800 font-bold">Company</h3>
+    <div className="flex flex-col p-6  mx-auto max-w-lg text-center  text-slate-400 bg-gradient-to-b from-[#3a0ca3] to-[#7209b7] end-[#4361ee] via-[#f72585] rounded-lg border border-black shadow dark:border-gray-600 xl:p-8 dark:bg-gray-900 dark:text-white">
+      <h3 className="mb-4 text-3xl text-lime-500 font-bold">Company</h3>
       <p className="text-white font-semibold sm:text-lg dark:text-white">
         Relevant for multiple users,small company & extended premium support.
       </p>

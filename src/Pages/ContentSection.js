@@ -9,7 +9,7 @@ export default function Example() {
     <div className=" overflow-hidden bg-gradient-to-bl from-[#4895ef] to-[#10002b] via-[#5a189a] end-[#9d4edd] px-6 py-24 sm:py-32 lg:overflow-visible lg:px-0">
       <div className="absolute inset-0 -z-10 overflow-hidden">
         <svg
-          className="absolute left-[max(50%,25rem)] top-0 h-[64rem] w-[128rem] -translate-x-1/2 stroke-gray-200 [mask-image:radial-gradient(64rem_64rem_at_top,white,transparent)]"
+          className="left-[max(50%,25rem)] top-0 h-[64rem] w-[128rem] -translate-x-1/2 stroke-gray-200 [mask-image:radial-gradient(64rem_64rem_at_top,white,transparent)]"
           aria-hidden="true"
         >
           <defs>
@@ -78,7 +78,7 @@ export default function Example() {
               <ul role="list" className="mt-8 space-y-8 text-gray-600">
                 <li className="flex gap-x-3">
                   <CloudArrowUpIcon
-                    className="mt-1 h-5 w-5 flex-none text-indigo-600"
+                    className="mt-1 h-5 w-5 flex-none text-[#3bf4fb]"
                     aria-hidden="true"
                   />
                   <span className=" text-[#dac3e8]">
@@ -92,7 +92,7 @@ export default function Example() {
                 </li>
                 <li className="flex gap-x-3">
                   <LockClosedIcon
-                    className="mt-1 h-5 w-5 flex-none text-indigo-600"
+                    className="mt-1 h-5 w-5 flex-none text-[#3bf4fb]"
                     aria-hidden="true"
                   />
                   <span className=" text-[#dac3e8]">
@@ -105,7 +105,7 @@ export default function Example() {
                 </li>
                 <li className="flex gap-x-3">
                   <ServerIcon
-                    className="mt-1 h-5 w-5 flex-none text-indigo-600"
+                    className="mt-1 h-5 w-5 flex-none text-[#3bf4fb]"
                     aria-hidden="true"
                   />
                   <span className=" text-[#dac3e8]">

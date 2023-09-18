@@ -3,7 +3,7 @@ import List_PricingCard1 from "./List_PricingCard1";
 
 function PricingCard1() {
   return (
-    <div className="flex flex-col p-6 mx-auto max-w-lg text-center text-slate-400 bg-gradient-to-b from-[#54478c] to-[#0db39e] to-[#16db93] rounded-lg border border-black shadow dark:border-gray-600 xl:p-8 dark:bg-gray-900 dark:text-white">
+    <div className="flex flex-col p-6 mx-auto max-w-lg text-center text-slate-400 bg-gradient-to-b from-[#54478c] to-[#0db39e] via-[#16db93] rounded-lg border border-black shadow dark:border-gray-600 xl:p-8 dark:bg-gray-900 dark:text-white">
       <h3 className="mb-4 text-deep-purple-900  text-3xl font-semibold">
         Starter
       </h3>

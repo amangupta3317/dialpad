@@ -15,7 +15,7 @@ function HeroSection() {
           <h1 className="text-5xl font-bold leading-tight sm:text-6xl">
             Customise Your Calls!
           </h1>
-          <p className="mt-6 mb-8 text-lg sm:mb-12">
+          <p className="mt-6 mb-8 font-semibold text-lg sm:mb-12">
             Whether your team is in sales or support, having a contact center
             sentiment analysis feature in your platform is essential for helping
             managers and supervisors monitor active calls more easily (and jump
@@ -26,16 +26,16 @@ function HeroSection() {
           </p>
           <div className="flex flex-col space-y-4 sm:flex-row sm:space-y-0 sm:space-x-4 lg:justify-start">
             <div className="flex flex-grow items-end">
-              <button className="relative inline-flex items-center justify-center p-0.5 overflow-hidden text-sm font-mediumtext-white bg-gradient-to-br from-purple-600 to-blue-500 hover:bg-gradient-to-bl rounded-lg focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800">
-                <span className="relative px-5 py-2.5 text-white rounded-md group-hover:bg-opacity-100">
+              <button className=" inline-flex items-center justify-center p-0.5 overflow-hidden text-sm font-mediumtext-white bg-gradient-to-br from-purple-600 to-blue-500 hover:bg-gradient-to-bl rounded-lg focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800">
+                <span className=" px-5 py-2.5 text-white rounded-md group-hover:bg-opacity-100">
                   See Prices
                 </span>
               </button>
               <button
                 type="button"
-                className="relative ml-8 inline-flex items-center justify-center p-0.5 overflow-hidden text-sm font-medium text-gray-900 rounded-lg group bg-gradient-to-br from-pink-500 to-orange-400 group-hover:from-pink-500 group-hover:to-orange-400 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-pink-200 dark:focus:ring-pink-800"
+                className=" ml-8 inline-flex items-center justify-center p-0.5 overflow-hidden text-sm font-medium text-gray-900 rounded-lg group bg-gradient-to-br from-pink-500 to-orange-400 group-hover:from-pink-500 group-hover:to-orange-400 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-pink-200 dark:focus:ring-pink-800"
               >
-                <span className="relative px-5 py-2.5 text-white rounded-md group-hover:bg-opacity-100">
+                <span className=" px-5 py-2.5 text-white rounded-md group-hover:bg-opacity-100">
                   More Info
                 </span>
               </button>
