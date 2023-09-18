@@ -7,7 +7,7 @@ module.exports = withMT({
   },
   plugins: [
     require('@headlessui/tailwindcss')
-
-   
   ],
 });
+
+   
