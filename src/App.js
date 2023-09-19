@@ -1,6 +1,7 @@
 import HeroSection from "./components/HeroSection";
 import Navbar from "./components/Navbar";
 import ContentSection from "./Pages/ContentSection";
+import Footer from "./Pages/Footer";
 import PricingSection from "./Pages/PricingSection";
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <HeroSection></HeroSection>
       <ContentSection></ContentSection>
       <PricingSection></PricingSection>
+      <Footer></Footer>
     </div>
   );
 }
