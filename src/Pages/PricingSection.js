@@ -2,17 +2,10 @@ import React from "react";
 import PricingCard1 from "../components/Pricings/PricingCard1";
 import PricingCard2 from "../components/Pricings/PricingCard2";
 import PricingCard3 from "../components/Pricings/PricingCard3";
-import background from "../components/Pricings/background.jpg";
 
 function PricingSection() {
-  const sectionStyle = {
-    backgroundImage: `url(${background})`,
-    backgroundSize: "cover",
-    backgroundPosition: "center",
-  };
-
   return (
-    <section style={sectionStyle}>
+    <section className="bg-gradient-to-tl from-[#4895ef] to-[#10002b] via-[#5a189a] end-[#9d4edd]">
       <div className="bg-opacity-80">
         <div className="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-4">
           <div className="mx-auto max-w-screen-md text-center mb-8 lg:mb-12">
