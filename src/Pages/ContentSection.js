@@ -43,16 +43,14 @@ export default function Example() {
           <div className="lg:pr-4">
             <div className="lg:max-w-lg">
               <p className=" font-bold text-xl leading-7 text-[#a5adff]">
-                Deploy faster
+                Why ConCent ?
               </p>
               <h1 className="mt-2 text-3xl font-bold tracking-tight text-[#07f49e] sm:text-4xl">
                 A Better Workflow
               </h1>
               <p className="mt-6 text-xl leading-8 text-white">
-                "Allowing neither too much nor too little, everyone needs a
-                certain amount of courage, not too much. At times, it's like a
-                gentle breeze, not too strong, but enough to make things happen.
-                You should have it for a fruitful and successful experience."
+                "Your gateway to effortless and intuitive conversations. Our
+                website transforms how you interact, making every word count."
               </p>
             </div>
           </div>
@@ -68,14 +66,16 @@ export default function Example() {
           <div className="lg:pr-4">
             <div className="max-w-xl text-base leading-7 text-white lg:max-w-lg">
               <p>
-                Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget
-                risus enim. Mattis mauris semper sed amet vitae sed turpis id.
-                Id dolor praesent donec est. Odio penatibus risus viverra tellus
-                varius sit neque erat velit. Faucibus commodo massa rhoncus,
-                volutpat. Dignissim sed eget risus enim. Mattis mauris semper
-                sed amet vitae sed turpis id.
+                Unlock the true pulse of your customer interactions with our
+                communication solutions. Dive deep into the emotions, opinions,
+                and feedback of every conversation. Our advanced AI technology
+                listens, analyzes, and deciphers sentiments in real-time,
+                empowering you to respond swiftly to customer needs, identify
+                trends, and enhance customer satisfaction. Elevate your contact
+                center performance with data-driven insights, and ensure every
+                interaction leaves a positive impact.
               </p>
-              <ul role="list" className="mt-8 space-y-8 text-gray-600">
+              <ul className="mt-8 space-y-8 text-gray-600">
                 <li className="flex gap-x-3">
                   <CloudArrowUpIcon
                     className="mt-1 h-5 w-5 flex-none text-[#3bf4fb]"
@@ -83,11 +83,11 @@ export default function Example() {
                   />
                   <span className=" text-[#dac3e8]">
                     <strong className="font-bold text-white">
-                      Push to deploy-
+                      AI-Powered Conversations-
                     </strong>{" "}
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                    Maiores impedit perferendis suscipit eaque, iste dolor
-                    cupiditate blanditiis ratione.
+                    Our advanced AI technology enhances every conversation,
+                    providing real-time insights and improving customer
+                    interactions.
                   </span>
                 </li>
                 <li className="flex gap-x-3">
@@ -97,10 +97,10 @@ export default function Example() {
                   />
                   <span className=" text-[#dac3e8]">
                     <strong className="font-bold text-white">
-                      SSL certificates-
+                      Enhanced Conversations-
                     </strong>{" "}
-                    Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure
-                    qui lorem cupidatat commodo.
+                    Elevate your calls with AI transcription, sentiment
+                    analysis, and smart call routing.
                   </span>
                 </li>
                 <li className="flex gap-x-3">
@@ -110,30 +110,26 @@ export default function Example() {
                   />
                   <span className=" text-[#dac3e8]">
                     <strong className="font-bold text-white">
-                      Database backups-
+                      Scalable Solutions-
                     </strong>{" "}
-                    Ac tincidunt sapien vehicula erat auctor pellentesque
-                    rhoncus. Et magna sit morbi lobortis.
+                    Whether you're a small startup or a large enterprise,
+                    Dialpad AI scales to meet your communication needs.
                   </span>
                 </li>
               </ul>
               <p className="mt-8 text-white">
-                Et vitae blandit facilisi magna lacus commodo. Vitae sapien duis
-                odio id et. Id blandit molestie auctor fermentum dignissim.
-                Lacus diam tincidunt ac cursus in vel. Mauris varius vulputate
-                et ultrices hac adipiscing egestas. Iaculis convallis ac tempor
-                et ut. Ac lorem vel integer orci.
+                Experience the future of customer engagement. Revolutionize your
+                contact center operations with ConCent. Make data-driven
+                decisions, improve agent performance, and boost customer
+                loyalty. Elevate your customer experience, one conversation at a
+                time.
               </p>
               <h2 className="mt-16 text-2xl font-bold tracking-tight text-[#3bf4fb]">
-                No server? No problem.
+                Are you ready to take a leap forward?
               </h2>
               <p className="mt-6 text-white">
-                Id orci tellus laoreet id ac. Dolor, aenean leo, ac etiam
-                consequat in. Convallis arcu ipsum urna nibh. Pharetra, euismod
-                vitae interdum mauris enim, consequat vulputate nibh. Maecenas
-                pellentesque id sed tellus mauris, ultrices mauris. Tincidunt
-                enim cursus ridiculus mi. Pellentesque nam sed nullam sed diam
-                turpis ipsum eu a sed convallis diam.
+                Get Ready to unlock the power of AI-driven communication? Join
+                ConCent now and experience the future of business conversations.
               </p>
             </div>
           </div>

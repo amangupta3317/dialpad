@@ -13,16 +13,19 @@ function HeroSection() {
         </div>
         <div className="flex flex-col justify-center p-0 text-center rounded-lg lg:max-w-md xl:max-w-lg lg:text-left">
           <h1 className="text-5xl font-bold leading-tight sm:text-6xl">
-            Customise Your Calls!
+            Your Calls on
+          </h1>
+          <h1 className="text-5xl font-bold leading-tight sm:text-6xl">
+            Your Fingertips!
           </h1>
           <p className="mt-6 mb-8 font-semibold text-lg sm:mb-12">
-            Whether your team is in sales or support, having a contact center
-            sentiment analysis feature in your platform is essential for helping
-            managers and supervisors monitor active calls more easily (and jump
-            in when needed). See how it works in Dialpad's AI-powered customer
-            engagement platform by booking a product tour!
-            <br className="hidden md:inline lg:hidden" />
-            turpis pulvinar, est scelerisque ligula sem
+            <span className="animate-pulse">
+              Welcome to the future of communication with our groundbreaking
+              website. We've harnessed the power of AI to transform your
+              conversations, making them smarter, more intuitive, and incredibly
+              efficient. Elevate your voice, connect effortlessly, and unlock a
+              world of possibilities. Say hello to a new era in conversation!
+            </span>
           </p>
           <div className="flex flex-col space-y-4 sm:flex-row sm:space-y-0 sm:space-x-4 lg:justify-start">
             <div className="flex flex-grow items-end">

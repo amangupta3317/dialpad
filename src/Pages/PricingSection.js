@@ -9,10 +9,10 @@ function PricingSection() {
       <div className="bg-opacity-80">
         <div className="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-4">
           <div className="mx-auto max-w-screen-md text-center mb-8 lg:mb-12">
-            <h2 className="mb-4 inline-block text-4xl tracking-tight font-extrabold text-[#48cae4] dark:text-[#48cae4]">
+            <h2 className="mb-4 inline-block text-4xl tracking-tight font-extrabold text-[#2dc653] dark:text-[#2dc653]">
               DESIGNED For Business Teams Like YOURS
             </h2>
-            <p className="mb-5 text-[#f72585] font-extrabold sm:text-xl dark:text-[#f72585]">
+            <p className="mb-5 text-white font-extrabold sm:text-xl dark:text-white">
               We provide you with seamless services for your calls and support
             </p>
           </div>
