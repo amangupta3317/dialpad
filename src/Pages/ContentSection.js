@@ -3,7 +3,7 @@ import {
   LockClosedIcon,
   ServerIcon,
 } from "@heroicons/react/20/solid";
-
+import dashboardImage from "./Dashboard.png";
 export default function Example() {
   return (
     <div className=" overflow-hidden bg-gradient-to-bl from-[#4895ef] to-[#10002b] via-[#5a189a] end-[#9d4edd] px-6 py-24 sm:py-32 lg:overflow-visible lg:px-14">
@@ -57,9 +57,9 @@ export default function Example() {
         </div>
         <div className="-ml-24 -mt-12 p-12 lg:sticky lg:top-8 lg:col-start-2 lg:row-span-2 lg:row-start-1 lg:overflow-hidden">
           <img
-            className="bg-contain rounded-xl bg-gray-900 shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem]"
-            src="https://tailwindui.com/img/component-images/dark-project-app-screenshot.png"
+            src={dashboardImage} // Use the imported image
             alt=""
+            className="rounded-2xl object-cover h-72 sm:h-80 lg:h-96 xl:h-112 2xl:h-128"
           />
         </div>
         <div className="lg:col-span-2 lg:col-start-1 lg:row-start-2 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-2 lg:gap-x-8 lg:px-8">
